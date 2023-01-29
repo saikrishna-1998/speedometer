@@ -1,0 +1,23 @@
+/* Write your CSS here */
+.container {
+  background-color: black;
+  text-align: center;
+  color: white;
+  padding: 100px;
+}
+.img {
+  width: 100vh;
+}
+.btn {
+  padding: 5px;
+  border-radius: 5px;
+  margin: 10px;
+  color: white;
+  background-color: black;
+}
+.btn-acc {
+  background-color: #0b69ff;
+}
+.btn-brake {
+  border-color: white;
+}
